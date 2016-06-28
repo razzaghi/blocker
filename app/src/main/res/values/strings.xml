@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">بلاکر</string>
+    <string name="app_description">بلاکر پیامک و تماس</string>
+
+    <string name="general_about_title">بلاکر %1$s</string>
+    <string name="general_about_summary">بلاکر پیامک و تماس تهیه شد توسط شرکت ایده پردازان ناد</string>
+    <string name="general_enable">فعال</string>
+    <string name="general_sms_enable">بلاک پیامک</string>
+    <string name="general_call_enable">بلاک تماس</string>
+    <string name="general_show_notification">نمایش پیامها</string>
+
+    <string name="rule_label">قوانین</string>
+    <string name="rule_label_type">نوه</string>
+    <string name="rule_label_block">بلاک</string>
+    <string name="rule_label_except">استثنا</string>
+    <string name="rule_remark">نشانه گذاری</string>
+    <string name="rule_accept">موافقت</string>
+    <string name="rule_not_match_type">قوانین کلماتی که اس ام اس را بلاک میکند</string>
+    <string name="rule_tip_empty_rule">لطفا یک رول تعیین کنید</string>
+    <string name="rule_tip_rule_added">یک قانین ایجاد یا ویرایش شد</string>
+    <string name="rule_tip_rule_deleted">یک قانون حذف شد</string>
+
+    <string name="rule_tip_sms_deleted">یک پیام حذف شد</string>
+
+    <string name="rule_tip_call_deleted">یک تماس حذف شد</string>
+
+    <string name="discard_dialog_title">تایید</string>
+    <string name="discard_dialog_message">آیتم انتخاب شده پاک شود.؟</string>
+    <string name="discard_dialog_button_ok">تایید</string>
+    <string name="discard_dialog_button_cancel">لغو</string>
+
+    <string name="snackbar_undo">برگشت</string>
+
+    <string name="notification_content_text" formatted="false"> %s پیامک, %s تماس رد شده است.</string>
+
+    <string name="menu_filter">فیلتر</string>
+    <string name="menu_filter_all">همه</string>
+    <string name="menu_filter_call">قوانین تماس</string>
+    <string name="menu_filter_sms">قوانین پیامک</string>
+    <string name="menu_filter_except">قوانین استثنا</string>
+    <string name="menu_export">خروجی</string>
+    <string name="menu_export_rule_tip">قوانین خروجی</string>
+    <string name="menu_export_sms_tip">تاریخچه پیامک های خروجی</string>
+    <string name="menu_export_call_tip">تاریخچه تماس ها ذخیره شذ</string>
+    <string name="menu_import">ورود</string>
+    <string name="menu_import_rule_miss_tip">Please put blocker_rule.csv at root of sdcard</string>
+    <string name="menu_import_rule_tip">قوانین وارد شده</string>
+    <string name="menu_import_sms_miss_tip">Please put blocker_sms.csv at root of sdcard</string>
+    <string name="menu_import_sms_tip">تاریخچه پیامک</string>
+    <string name="menu_import_call_miss_tip">Please put blocker_call.csv at root of sdcard</string>
+    <string name="menu_import_call_tip">تاریخچه تماس</string>
+</resources>

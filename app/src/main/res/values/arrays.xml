@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tabTitles">
+        <item>پیامک ها</item>
+        <item>تماس ها</item>
+        <item>لیست شماره ها</item>
+        <item>تنظیمات</item>
+    </string-array>
+    <string-array name="ruleTypes">
+        <item>شماره تماس</item>
+        <item>کارت تماس</item>
+        <item>کلمات کلیدی</item>
+    </string-array>
+    <string-array name="blockTypes">
+        <item>هر دو</item>
+        <item>پیامک</item>
+        <item>تماس</item>
+    </string-array>
+</resources>
